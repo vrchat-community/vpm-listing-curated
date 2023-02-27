@@ -14,7 +14,9 @@
     "url":"https://vrchat-community.github.io/vpm-listing-curated/index.json",
     "githubRepos":[
         "vrchat-community/clientsim",
-        "vrchat-community/udonsharp"
+        "vrchat-community/udonsharp",
+        "vrchat-community/VRWorldToolkit",
+        "vrchat-community/
     ],
     "packages":[
         {
@@ -27,6 +29,15 @@
                 {
                     "manifestUrl":"https://github.com/llealloo/vrc-udon-audio-link/releases/download/0.3.0/package.json",
                     "zipUrl":"https://github.com/llealloo/vrc-udon-audio-link/releases/download/0.3.0/com.llealloo.audiolink-0.3.0.zip"
+                }
+            ]
+        },
+        {
+            "name":"VRWorldToolkit",
+            "releases":[
+                {
+                    "manifestUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/dev.onevr.vrworldtoolkit-2.1.3/package.json",
+                    "zipUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/dev.onevr.vrworldtoolkit-2.1.3/VRWorldToolkit-2.1.3.zip"
                 }
             ]
         }
