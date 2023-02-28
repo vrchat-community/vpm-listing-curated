@@ -22,7 +22,6 @@
             "name":"VRWorldToolkit",
             "releases":[
                 {
-                    "manifestUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/dev.onevr.vrworldtoolkit-2.1.3/package.json",
                     "zipUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/dev.onevr.vrworldtoolkit-2.1.3/VRWorldToolkit-2.1.3.zip"
                 }
             ]
@@ -31,7 +30,6 @@
             "name":"EasyQuestSwitch",
             "releases":[
                 {
-                    "manifestUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/vrchat.jordo.easyquestswitch-1.2.1/package.json",
                     "zipUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/vrchat.jordo.easyquestswitch-1.2.1/vrchat.jordo.easyquestswitch.zip"
                 }
             ]
@@ -40,7 +38,6 @@
             "name":"Avatars 3.0 Manager",
             "releases":[
                 {
-                    "manifestUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/dev.vrlabs.av3manager-2.0.17/package.json",
                     "zipUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/dev.vrlabs.av3manager-2.0.17/Avatars_3.0_Manager_2.0.17.zip"
                 }
             ]
@@ -49,7 +46,6 @@
             "name":"Gesture Manager",
             "releases":[
                 {
-                    "manifestUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/vrchat.blackstartx.gesture-manager.3.8.2/package.json",
                     "zipUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/vrchat.blackstartx.gesture-manager.3.8.2/VRC-Gesture-Manager-3.8.2.zip"
                 }
             ]
