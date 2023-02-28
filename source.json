@@ -14,21 +14,15 @@
     "url":"https://vrchat-community.github.io/vpm-listing-curated/index.json",
     "githubRepos":[
         "vrchat-community/clientsim",
-        "vrchat-community/udonsharp",
-        "vrchat-community/VRWorldToolkit",
-        "vrchat-community/
+        "vrchat-community/udonsharp"
     ],
     "packages":[
         {
             "name":"com.llealloo.audiolink",
             "releases":[
                 {
-                    "manifestUrl":"https://github.com/llealloo/vrc-udon-audio-link/releases/download/0.3.1/package.json",
-                    "zipUrl":"https://github.com/llealloo/vrc-udon-audio-link/releases/download/0.3.1/com.llealloo.audiolink-0.3.1.zip"
-                },
-                {
-                    "manifestUrl":"https://github.com/llealloo/vrc-udon-audio-link/releases/download/0.3.0/package.json",
-                    "zipUrl":"https://github.com/llealloo/vrc-udon-audio-link/releases/download/0.3.0/com.llealloo.audiolink-0.3.0.zip"
+                    "manifestUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/com.llealloo.audiolink-0.3.1/package.json",
+                    "zipUrl":"https://github.com/vrchat-community/vpm-listing-curated/releases/download/com.llealloo.audiolink-0.3.1/com.llealloo.audiolink-0.3.1.zip"
                 }
             ]
         },
