@@ -43,7 +43,7 @@
             "id":"vrchat.jordo.easyquestswitch",
             "releases":[
                 {
-                    "version": "1.2.0",
+                    "version": "1.2.1",
                     "url": "https://github.com/JordoVR/EasyQuestSwitch/releases/download/v1.2.0/vrchat.jordo.easyquestswitch.zip"
                 }
             ]
