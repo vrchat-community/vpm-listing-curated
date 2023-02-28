@@ -21,11 +21,9 @@
     ],
     "packages":[
         [
-            // VRWorldToolkit
             "https://github.com/vrchat-community/vpm-listing-curated/releases/download/dev.onevr.vrworldtoolkit-2.1.3/VRWorldToolkit-2.1.3.zip"
         ],
         [
-            // Gesture Manager
             "https://github.com/vrchat-community/vpm-listing-curated/releases/download/vrchat.blackstartx.gesture-manager.3.8.2/VRC-Gesture-Manager-3.8.2.zip"
         ]
     ]
