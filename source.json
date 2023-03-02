@@ -20,50 +20,32 @@
         {
             "id":"com.llealloo.audiolink",
             "releases":[
-                {
-                    "version": "0.3.1",
-                    "url": "https://github.com/llealloo/vrc-udon-audio-link/releases/download/0.3.1/com.llealloo.audiolink-0.3.1.zip"
-                },
-                {
-                    "version": "0.3.0",
-                    "url": "https://github.com/llealloo/vrc-udon-audio-link/releases/download/0.3.0/com.llealloo.audiolink-0.3.0.zip"
-                }
+                "https://github.com/llealloo/vrc-udon-audio-link/releases/download/0.3.1/com.llealloo.audiolink-0.3.1.zip"
+                "https://github.com/llealloo/vrc-udon-audio-link/releases/download/0.3.0/com.llealloo.audiolink-0.3.0.zip"
             ]
         },
         {
             "id":"dev.onevr.vrworldtoolkit",
             "releases":[
-                {
-                    "version": "2.1.3",
-                    "url": "https://github.com/vrchat-community/vpm-listing-curated/releases/download/dev.onevr.vrworldtoolkit-2.1.3/VRWorldToolkit-2.1.3.zip"
-                }
+                "https://github.com/vrchat-community/vpm-listing-curated/releases/download/dev.onevr.vrworldtoolkit-2.1.3/VRWorldToolkit-2.1.3.zip"
             ]
         },
         {
             "id":"vrchat.jordo.easyquestswitch",
             "releases":[
-                {
-                    "version": "1.2.1",
-                    "url": "https://github.com/JordoVR/EasyQuestSwitch/releases/download/v1.2.0/vrchat.jordo.easyquestswitch.zip"
-                }
+                "https://github.com/JordoVR/EasyQuestSwitch/releases/download/v1.2.0/vrchat.jordo.easyquestswitch.zip"
             ]
         },
         {
             "id":"dev.vrlabs.av3manager",
             "releases":[
-                {
-                    "version": "2.0.18",
-                    "url": "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.18/Avatars_3.0_Manager_2.0.18.zip"
-                }
+                    "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.18/Avatars_3.0_Manager_2.0.18.zip"
             ]
         },
         {
             "id":"vrchat.blackstartx.gesture-manager",
             "releases":[
-                {
-                    "version": "3.8.2",
-                    "url": "https://github.com/BlackStartx/VRC-Gesture-Manager/releases/download/v3.8.2/GestureManager3.8.2.zip"
-                }
+                "https://github.com/BlackStartx/VRC-Gesture-Manager/releases/download/v3.8.2/GestureManager3.8.2.zip"
             ]
         }
     ]
