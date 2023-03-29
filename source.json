@@ -1,5 +1,6 @@
 {
     "name":"Curated",
+    "id":"com.vrchat.curated",
     "description":"Useful Packages for VRChat Content Development, Picked by the Creators Team",
     "author":{
         "email":"developer@vrchat.com",
