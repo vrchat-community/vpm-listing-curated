@@ -38,7 +38,6 @@
         {
             "id":"vrchat.jordo.easyquestswitch",
             "releases":[
-                "https://github.com/vrchat-community/EasyQuestSwitch/releases/download/v1.3.0/vrchat.jordo.easyquestswitch-1.3.0.zip",
                 "https://github.com/vrchat-community/EasyQuestSwitch/releases/download/v1.2.0/vrchat.jordo.easyquestswitch.zip"
             ]
         },
