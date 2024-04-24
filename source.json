@@ -75,6 +75,7 @@
         {
             "id":"lyuma.av3emulator",
             "releases":[
+                "https://github.com/lyuma/Av3Emulator/releases/download/v3.4.3/lyuma.av3emulator-3.4.3.zip",
                 "https://github.com/lyuma/Av3Emulator/releases/download/v3.4.0/lyuma.av3emulator-3.4.0.zip",
                 "https://github.com/lyuma/Av3Emulator/releases/download/v3.3.1/lyuma.av3emulator-3.3.1.zip",
                 "https://github.com/lyuma/Av3Emulator/releases/download/v3.3.0/lyuma.av3emulator-3.3.0.zip",
