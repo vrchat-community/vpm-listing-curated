@@ -94,6 +94,19 @@
                 "https://github.com/lyuma/Av3Emulator/releases/download/v3.2.0/lyuma.av3emulator-3.2.0.zip",
                 "https://github.com/lyuma/Av3Emulator/releases/download/v3.1.3/lyuma.av3emulator-3.1.3.zip"
             ]
+        },
+        {
+            "id":"com.anatawa12.avatar-optimizer",
+            "releases":[
+                "https://vpm.anatawa12.com/avatar-optimizer/package-1.7.6.zip"
+            ]
+        },
+        {
+            "id":"nadena.dev.ndmf",
+            "_comment":"dependencies of avatar-optimizer",
+            "releases":[
+                "https://github.com/bdunderscore/ndmf/releases/download/1.4.1/nadena.dev.ndmf-1.4.1.zip"
+            ]
         }
     ]
 }
