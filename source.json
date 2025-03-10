@@ -21,6 +21,7 @@
         {
             "id":"com.llealloo.audiolink",
             "releases":[
+                "https://github.com/llealloo/audiolink/releases/download/2.1.0/com.llealloo.audiolink-2.1.0.zip",
                 "https://github.com/llealloo/audiolink/releases/download/2.0.0/com.llealloo.audiolink-2.0.0.zip",
                 "https://github.com/llealloo/vrc-udon-audio-link/releases/download/1.4.0/com.llealloo.audiolink-1.4.0.zip",
                 "https://github.com/llealloo/vrc-udon-audio-link/releases/download/1.3.0/com.llealloo.audiolink-1.3.0.zip",
