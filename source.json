@@ -54,6 +54,7 @@
         {
             "id":"dev.vrlabs.av3manager",
             "releases":[
+                    "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.35/dev.vrlabs.av3manager-2.0.35.zip",
                     "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.34/dev.vrlabs.av3manager-2.0.34.zip",
                     "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.33/dev.vrlabs.av3manager-2.0.33.zip",
                     "https://github.com/VRLabs/Avatars-3.0-Manager/releases/download/2.0.32/dev.vrlabs.av3manager-2.0.32.zip",
