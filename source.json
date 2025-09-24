@@ -36,6 +36,7 @@
         {
             "id":"dev.onevr.vrworldtoolkit",
             "releases":[
+                "https://github.com/oneVR/VRWorldToolkit/releases/download/V3.3.1/VRWorldToolkit_V3.3.1.zip",
                 "https://github.com/oneVR/VRWorldToolkit/releases/download/V3.3.0/VRWorldToolkit_V3.3.0.zip",
                 "https://github.com/oneVR/VRWorldToolkit/releases/download/V3.2.1/VRWorldToolkit_V3.2.1.zip",
                 "https://github.com/oneVR/VRWorldToolkit/releases/download/V3.2.0/VRWorldToolkit_V3.2.0.zip",
