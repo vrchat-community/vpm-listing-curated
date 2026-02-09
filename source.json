@@ -83,6 +83,7 @@
         {
             "id":"vrchat.blackstartx.gesture-manager",
             "releases":[
+                "https://github.com/BlackStartx/VRC-Gesture-Manager/releases/download/v3.9.8/GestureManager3.9.8.zip",
                 "https://github.com/BlackStartx/VRC-Gesture-Manager/releases/download/v3.9.7/GestureManager3.9.7.zip",
                 "https://github.com/BlackStartx/VRC-Gesture-Manager/releases/download/v3.9.6/GestureManager3.9.6.zip",
                 "https://github.com/BlackStartx/VRC-Gesture-Manager/releases/download/v3.9.5/GestureManager3.9.5.zip",
